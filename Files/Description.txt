@@ -1,0 +1,5 @@
+The supplementary material consists of the following:
+
+1. "classification.csv": This file consists of used parameter combinations along with their attractor type under column "classification" and their eigenvalue type under column "Eigen_TAG"
+2. The PDF files "Multistability1", "Multistability2", and "Multistability3" are the multistability plots for various initial state combinations.
+3. The PDF file "Attractors" consists of selected attractor plots from the non-divergent group.
